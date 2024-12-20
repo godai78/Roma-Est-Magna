@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Cover.htm'],s:['33'],p:[['33',1],['urna',0]]});
